@@ -22,14 +22,20 @@ li{
 
 #section1,#section2,#section3{
    display:inline-block;
-   margin:100px;
+   margin:10px;
    
 }
 
-#section4,#section5,#CalltoAction{
-   display:inline-block;
-   margin:100px;
+#section4,#section5{
+display:inline-block;
+margin:20px;
 
+}
+
+#section5{
+   width: 400px;
+   height:300px;
+   padding-bottom:50px;
 }
 
 footer{
