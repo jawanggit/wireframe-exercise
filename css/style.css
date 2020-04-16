@@ -11,6 +11,11 @@ nav{
    text-align: center;
 }
 
+#logo_box{
+   color:white;
+   background-color: black;
+}
+
 li{
 
    display:inline;
