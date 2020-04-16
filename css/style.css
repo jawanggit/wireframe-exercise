@@ -1,0 +1,44 @@
+
+
+nav{
+  
+   height:40px;
+   width: auto;
+   border: solid black 1px;
+   padding: 10px;
+   margin: 10px;
+   background-color: #676464;
+}
+
+li{
+   
+   padding: 80px;
+   display:inline;
+}
+
+#heroImage{
+   text-align: center;
+}
+
+#section1,#section2,#section3{
+   display:inline-block;
+   margin:100px;
+   
+}
+
+#section4,#section5,#CalltoAction{
+   display:inline-block;
+   margin:100px;
+
+}
+
+footer{
+   height:40px;
+   width: 95%;
+   border: solid black 1px;
+   padding: 10px;
+   margin: 10px;
+   background-color: #676464;
+
+   
+}
